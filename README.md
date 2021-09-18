@@ -1,2 +1,3 @@
 So this is a script for replit that will maintain your account 24/7 online if you do everything right.
 You need to upload the files to replit then go to Secrets (Environment variables) and at the key, you need to type TOKEN and in the value box you put your token then you press on Add new secret. after you pressed on Add new secret you can run the replit. After you ran the replit it will appear a site, you need to copy that site and put it on uptimerobot. you will have to wait 5 minutes for uptimerobot to configure. That's all
+I don't care what you do with this. If your account gets disabled its ur fault
